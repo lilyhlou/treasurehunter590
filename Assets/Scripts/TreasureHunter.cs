@@ -21,7 +21,7 @@ public class TreasureHunter : MonoBehaviour
     int distance = 3;
     int angle = 60;
     float d;
-    bool isSpawned=false;
+    bool isSpawned=false; // change from false to true in control version of game without distractors
     Vector3 prevForwardVector;
     Vector3 prevLocation;
     Vector3 playerPosNoY;
