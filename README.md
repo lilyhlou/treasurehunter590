@@ -2,7 +2,7 @@
 *Created for COMP 590: Intro to VR, Game Dev, & HCI*
 
 [<img src="https://img.youtube.com/vi/Z2FioV4crCg/maxresdefault.jpg" width="50%">](https://youtu.be/Z2FioV4crCg)  
-*Click for video preview*
+*Click for video*
 
 Our study aims to discover the effectiveness of distractors for redirected walking in small spaces. We hypothesize that distractors will influence the player's movements throughout the game, such as by making them progress through the maze at a slower pace due to the moving targets compelling players to shoot them before continuing through the maze. In an ideal world, we would have used VR headsets to test to see how immersed an individual felt between distractors or not distractors; however, our study focuses on the impact of distractors in influencing behavior during the game.
 
